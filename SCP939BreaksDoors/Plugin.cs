@@ -3,6 +3,7 @@
     using Exiled.API.Enums;
     using Exiled.API.Features;
     using System;
+    using SCP939BreaksDoors.Events;
 
     public class Plugin : Plugin<Config>
     {
@@ -16,7 +17,7 @@
         public override string Name { get; } = "SCP939BreaksDoors";
         public override string Prefix { get; } = "SCP939BD";
         public override Version RequiredExiledVersion { get; } = new Version(3, 0, 0);
-        public override Version Version { get; } = new Version(1, 0, 0);
+        public override Version Version { get; } = new Version(1, 0, 1);
 
         public override void OnEnabled(){
             RegisterEvents();
