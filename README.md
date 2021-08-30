@@ -1,2 +1,2 @@
 # SCP939BreaksDoors
-SCP 939 Break Door when opening them.
+SCP 939 Breaks Door when opening them.
