@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // Ogólne informacje o zestawie są kontrolowane poprzez następujący 
-// zestaw atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
+// zestaw atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje 
 // powiązane z zestawem.
 [assembly: AssemblyTitle("SCP939BreaksDoors")]
 [assembly: AssemblyDescription("")]
