@@ -31,33 +31,45 @@
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
   <ItemGroup>
-    <Reference Include="0Harmony">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\0Harmony.dll</HintPath>
+    <Reference Include="0Harmony, Version=2.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\0Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Assembly-CSharp.dll</HintPath>
+    <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.API">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Exiled.API.dll</HintPath>
+    <Reference Include="Exiled.API, Version=3.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Exiled.API.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.CreditTags">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Exiled.CreditTags.dll</HintPath>
+    <Reference Include="Exiled.CreditTags, Version=3.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Exiled.CreditTags.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.CustomItems">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Exiled.CustomItems.dll</HintPath>
+    <Reference Include="Exiled.CustomItems, Version=3.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Exiled.CustomItems.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Events">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Exiled.Events.dll</HintPath>
+    <Reference Include="Exiled.Events, Version=3.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Exiled.Events.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Loader">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Exiled.Loader.dll</HintPath>
+    <Reference Include="Exiled.Loader, Version=3.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Exiled.Loader.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Permissions">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Exiled.Permissions.dll</HintPath>
+    <Reference Include="Exiled.Permissions, Version=3.0.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Exiled.Permissions.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Updater">
-      <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\Exiled.Updater.dll</HintPath>
+    <Reference Include="Exiled.Updater, Version=3.1.1.0, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\Exiled (1)\EXILED\Plugins\dependencies\Exiled.Updater.dll</HintPath>
     </Reference>
     <Reference Include="SemVer">
       <HintPath>..\..\..\..\OneDrive\Pulpit\Exiled (1)\EXILED\Plugins\SemVer.dll</HintPath>
